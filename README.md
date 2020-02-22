@@ -1,6 +1,6 @@
-### o
+### FaunaDB
 ---
-
+https://github.com/fauna
 
 ```
 ```
